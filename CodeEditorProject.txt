@@ -1,0 +1,33 @@
+buildfile	C:\Eric\Main\CodeEditorCS\BuildProj.bat
+executablefile	\Eric\Main\CodeEditorCS\bin\Release\CodeEditor.exe
+projectdirectory	\Eric\Main\CodeEditorCS
+recentfile1	\Eric\Main\CodeEditorCS\MainForm.cs
+recentfile2	\Eric\Main\Docs\Notes.txt
+recentfile3	
+recentfile4	
+recentfile5	
+recentfile6	
+recentfile7	
+recentfile8	
+recentfile9	
+recentfile10	
+recentfile11	
+recentfile12	
+recentfile13	
+recentfile14	
+recentfile15	
+recentfile16	
+recentfile17	
+recentfile18	
+recentfile19	
+recentfile20	
+recentfile21	
+recentfile22	
+recentfile23	
+recentfile24	
+recentfile25	
+recentfile26	
+recentfile27	
+recentfile28	
+recentfile29	
+recentfile30	
